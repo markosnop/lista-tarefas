@@ -21,9 +21,9 @@ a i:hover {
 }
 
 #face {
-  color: rgb(255, 255, 255);
+  color: blueviolet;
 }
 
 #face:hover {
-  color: blue;
+  color: red;
 }
